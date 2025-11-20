@@ -1,0 +1,13 @@
+# ResearchAgent - 基于 AutoGen 0.4+ 的智能研究分析系统
+# Python 3.8+
+
+# AutoGen 核心依赖
+autogen-agentchat>=0.4.0
+autogen-ext>=0.4.0
+
+# MCP 工具支持
+mcp>=0.1.0
+
+# 其他依赖
+typing-extensions>=4.0.0
+
