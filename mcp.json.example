@@ -1,0 +1,19 @@
+{
+    "mcpServers": {
+      "tavily": {
+          "command": "npx",
+          "args": ["-y", "tavily-mcp@0.2.1"],
+          "env": {
+            "TAVILY_API_KEY": "your-tavily-api-key-here"
+          }
+      },
+      "sequentialthinking": {
+        "command": "npx",
+        "args": [
+          "-y",
+          "@modelcontextprotocol/server-sequential-thinking"
+        ]
+      }
+    }
+}
+
