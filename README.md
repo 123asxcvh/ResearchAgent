@@ -316,7 +316,7 @@ TERMINATE
 ### 开发环境设置
 ```bash
 # 克隆项目
-git clone https://github.com/yourusername/ResearchAgent.git
+git clone https://github.com/123asxcvh/ResearchAgent.git
 cd ResearchAgent
 
 # 安装依赖
